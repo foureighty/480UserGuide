@@ -1,11 +1,16 @@
+============================
+FourEightyMinutes User Guide
+============================
+
+--------
+Contents
+--------
+
 .. toctree::
 
    index.rst
    about.rst
 
-=======
-Welcome
-=======
 
 -------
 Subheading
