@@ -7,9 +7,9 @@ Lorem ipsum...
 
 After you login you will be redirected to the dashboard <thedashboard.rst>
 
-And here is another link `Link text <https://foureightyminutes.com>`_
+And here is another link `Link text <thedashboard>`_
 
-`thedashboard.rst<a test link>`_
+And here is another link `Link text2 <thedashboard.rst>`_
 
 
 
