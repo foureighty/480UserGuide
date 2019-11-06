@@ -8,7 +8,6 @@ Contents
 
 .. toctree::
 
-   index.rst
    about.rst
 
 
