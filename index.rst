@@ -2,15 +2,6 @@
 FourEightyMinutes User Guide
 ============================
 
---------
-Contents
---------
-
-.. toctree::
-
-   about.rst
-
-
 -------
 Subheading
 -------
