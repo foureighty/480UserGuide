@@ -1,4 +1,5 @@
 .. toctree::
+
    index.rst
    about.rst
 
