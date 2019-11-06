@@ -1,14 +1,7 @@
 .. toctree::
 
-   whatsnew/index.rst
-   tutorial/index.rst
-   faq/index.rst
-   glossary.rst
-
+   index.rst
    about.rst
-   bugs.rst
-   copyright.rst
-   license.rst
 
 =======
 Welcome
