@@ -10,5 +10,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 3
-    
+
    source/intro
+   source/loggingin
+   source/thedashboard
